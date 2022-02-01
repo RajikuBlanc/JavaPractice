@@ -1,4 +1,4 @@
-public class SubOverride extends Override {
+public class OverrideSub extends Override {
     public void increase(int num) {
         int x = num * 1000;
         System.out.println(x);
